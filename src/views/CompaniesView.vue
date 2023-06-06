@@ -33,11 +33,12 @@
                                 <div class="col-md-11">
                                     <div class="card-body">
                                         <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
                                         </h5>
                                         <p class="card-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is
-                                            an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
                                         </p>
                                         <a href="#" class="card-text"
                                             ><country-flag country="gb" size="normal" /> Read Profile Page</a
@@ -69,11 +70,12 @@
                                 <div class="col-md-11">
                                     <div class="card-body">
                                         <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
                                         </h5>
                                         <p class="card-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is
-                                            an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
                                         </p>
                                         <a href="#" class="card-text"
                                             ><country-flag country="tr" size="normal" /> Read Profile Page</a
@@ -105,11 +107,12 @@
                                 <div class="col-md-11">
                                     <div class="card-body">
                                         <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
                                         </h5>
                                         <p class="card-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is
-                                            an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
                                         </p>
                                         <a href="#" class="card-text"
                                             ><country-flag country="tr" size="normal" /> Read Profile Page
@@ -141,11 +144,12 @@
                                 <div class="col-md-11">
                                     <div class="card-body">
                                         <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
                                         </h5>
                                         <p class="card-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is
-                                            an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
                                         </p>
                                         <a href="#" class="card-text"
                                             ><country-flag country="tr" size="normal" /> Read Profile Page</a
@@ -177,11 +181,12 @@
                                 <div class="col-md-11">
                                     <div class="card-body">
                                         <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
                                         </h5>
                                         <p class="card-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is
-                                            an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
                                         </p>
                                         <a href="#" class="card-text"
                                             ><country-flag country="rus" size="normal" /> Read Profile Page
@@ -321,7 +326,7 @@ a:hover {
     font-family: "DM Sans", sans-serif;
     position: relative;
     margin-top: 28px;
-    width: 90%;
+    width: 100%;
 }
 .companyListFlex {
     display: flex;

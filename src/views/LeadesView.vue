@@ -21,8 +21,8 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /> </span>Heavy
-                                            duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /> </span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
                                             Actually i am looking for construction equipment manufacturer. pay loader, motor
@@ -69,8 +69,8 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy
-                                            duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
                                             Actually i am looking for construction equipment manufacturer. pay loader, motor
@@ -117,8 +117,8 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy
-                                            duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
                                             Actually i am looking for construction equipment manufacturer. pay loader, motor
@@ -165,8 +165,8 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy
-                                            duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
                                             Actually i am looking for construction equipment manufacturer. pay loader, motor
@@ -213,8 +213,8 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy
-                                            duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
                                             Actually i am looking for construction equipment manufacturer. pay loader, motor
@@ -261,8 +261,8 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy
-                                            duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
                                             Actually i am looking for construction equipment manufacturer. pay loader, motor
@@ -309,8 +309,8 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy
-                                            duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
                                             Actually i am looking for construction equipment manufacturer. pay loader, motor
@@ -357,8 +357,8 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy
-                                            duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
                                             Actually i am looking for construction equipment manufacturer. pay loader, motor
@@ -405,8 +405,8 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy
-                                            duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
                                             Actually i am looking for construction equipment manufacturer. pay loader, motor
@@ -453,8 +453,8 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy
-                                            duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
                                             Actually i am looking for construction equipment manufacturer. pay loader, motor
@@ -501,8 +501,8 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy
-                                            duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
                                             Actually i am looking for construction equipment manufacturer. pay loader, motor
@@ -549,8 +549,8 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy
-                                            duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
                                             Actually i am looking for construction equipment manufacturer. pay loader, motor
@@ -597,8 +597,8 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy
-                                            duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
                                             Actually i am looking for construction equipment manufacturer. pay loader, motor
@@ -645,8 +645,8 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy
-                                            duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
                                             Actually i am looking for construction equipment manufacturer. pay loader, motor
@@ -693,8 +693,8 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy
-                                            duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
                                             Actually i am looking for construction equipment manufacturer. pay loader, motor
@@ -862,7 +862,7 @@ a:hover {
     font-family: "DM Sans", sans-serif;
     position: relative;
     margin-top: 28px;
-    width: 90%;
+    width: 100%;
 }
 .leadesListFlex {
     display: flex;
