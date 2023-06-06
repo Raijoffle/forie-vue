@@ -1,5 +1,4 @@
 import { createRouter, createWebHistory } from "vue-router";
-import NotFound from "@/views/ErrorViews/NotFoundView.vue";
 
 const routes = [
     {
@@ -58,7 +57,11 @@ const routes = [
         component: () => import(/* webpackChunkName: "accountactivation" */ "../views/AccountActivationView.vue"),
     },
 
-    { path: "/:pathMatch(.*)*", name: "NotFound", component: NotFound },
+    {
+        path: "/:pathMatch(.*)*",
+        name: "NotFound",
+        component: () => import(/* webpackChunkName: "pageNotFound" */ "@/views/ErrorViews/NotFoundView.vue"),
+    },
 ];
 
 const router = createRouter({

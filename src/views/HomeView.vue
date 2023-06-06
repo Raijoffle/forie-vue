@@ -20,7 +20,7 @@
                 <carousel :settings="settings" :breakpoints="breakpoints">
                     <slide v-for="slide in 10" :key="slide">
                         <div class="carousel__item">
-                            <img class="w-100" :src="require(`/src/assets/img/Image1.png`)" />
+                            <img class="w-100" :src="require(`/src/assets/img/Image1.png`)" :alt="slide" />
                             <small :title="slide">{{ slide }} slide</small>
                         </div>
                     </slide>
@@ -242,8 +242,8 @@
                     </div>
                     <div class="leadesBody">
                         <div class="leadesContent">
-                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter,
-                            forklift, excavator etc.
+                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam
+                            lifter, forklift, excavator etc.
                         </div>
                         <div class="leadFooter">
                             <div class="leadesStatus">
@@ -272,8 +272,8 @@
                     </div>
                     <div class="leadesBody">
                         <div class="leadesContent">
-                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter,
-                            forklift, excavator etc.
+                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam
+                            lifter, forklift, excavator etc.
                         </div>
                         <div class="leadFooter">
                             <div class="leadesStatus">
@@ -302,8 +302,8 @@
                     </div>
                     <div class="leadesBody">
                         <div class="leadesContent">
-                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter,
-                            forklift, excavator etc.
+                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam
+                            lifter, forklift, excavator etc.
                         </div>
                         <div class="leadFooter">
                             <div class="leadesStatus">
@@ -332,8 +332,8 @@
                     </div>
                     <div class="leadesBody">
                         <div class="leadesContent">
-                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter,
-                            forklift, excavator etc.
+                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam
+                            lifter, forklift, excavator etc.
                         </div>
                         <div class="leadFooter">
                             <div class="leadesStatus">
@@ -362,8 +362,8 @@
                     </div>
                     <div class="leadesBody">
                         <div class="leadesContent">
-                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter,
-                            forklift, excavator etc.
+                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam
+                            lifter, forklift, excavator etc.
                         </div>
                         <div class="leadFooter">
                             <div class="leadesStatus">
@@ -392,8 +392,8 @@
                     </div>
                     <div class="leadesBody">
                         <div class="leadesContent">
-                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter,
-                            forklift, excavator etc.
+                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam
+                            lifter, forklift, excavator etc.
                         </div>
                         <div class="leadFooter">
                             <div class="leadesStatus">
@@ -489,15 +489,13 @@ export default defineComponent({
     overflow: hidden;
 }
 .suppliersBackground {
-    background-image: url(../assets/img/Rectangle1726.svg);
-    background-color: #005eb5;
-    background-blend-mode: screen;
+    background-image: url(../assets/img/banner-background.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     border-radius: 64px;
     width: 100%;
     height: 100%;
-    max-height: 396px;
+    max-height: 400px;
 }
 .suppliersText {
     width: 30%;
