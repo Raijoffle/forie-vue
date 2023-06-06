@@ -12,9 +12,7 @@
                 <div class="companyList-companies">
                     <div class="companyListTitle">
                         <h1>Companies List</h1>
-                        <div @click="filterActive(1)">
-                            <span class="material-icons-outlined"> filter_alt </span>Advanced Filter
-                        </div>
+                        <div @click="filterActive(1)"><span class="material-icons-outlined"> filter_alt </span>Advanced Filter</div>
                     </div>
                     <div class="company">
                         <div class="card mb-3" style="max-width: 100%">
@@ -22,27 +20,15 @@
                                 <div class="col-md-1">
                                     <div class="company-logo">
                                         <div class="company-logoImage">
-                                            <img
-                                                src="https://cdn.forie.com/storage/general/logo/forie-logo.svg"
-                                                class="img-fluid rounded-start"
-                                                alt="ss"
-                                            />
+                                            <img src="https://cdn.forie.com/storage/general/logo/forie-logo.svg" class="img-fluid rounded-start" alt="ss" />
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-11">
                                     <div class="card-body">
-                                        <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
-                                            Sirketi
-                                        </h5>
-                                        <p class="card-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
-                                            quality is an important criteria t......
-                                        </p>
-                                        <a href="#" class="card-text"
-                                            ><country-flag country="gb" size="normal" /> Read Profile Page</a
-                                        >
+                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                                        <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
+                                        <a href="#" class="card-text"><country-flag country="gb" size="normal" /> Read Profile Page</a>
                                         <div class="companyTags">
                                             <span class="companyTag1">technical clothing</span>
                                             <span class="companyTag2">school uniform</span>
@@ -59,27 +45,15 @@
                                 <div class="col-md-1">
                                     <div class="company-logo">
                                         <div class="company-logoImage">
-                                            <img
-                                                src="https://www.turkishexporter.net/assetsFront/img/logo.png"
-                                                class="img-fluid rounded-start"
-                                                alt="ss"
-                                            />
+                                            <img src="https://www.turkishexporter.net/assetsFront/img/logo.png" class="img-fluid rounded-start" alt="ss" />
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-11">
                                     <div class="card-body">
-                                        <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
-                                            Sirketi
-                                        </h5>
-                                        <p class="card-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
-                                            quality is an important criteria t......
-                                        </p>
-                                        <a href="#" class="card-text"
-                                            ><country-flag country="tr" size="normal" /> Read Profile Page</a
-                                        >
+                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                                        <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
+                                        <a href="#" class="card-text"><country-flag country="tr" size="normal" /> Read Profile Page</a>
                                         <div class="companyTags">
                                             <span class="companyTag1">technical clothing</span>
                                             <span class="companyTag2">school uniform</span>
@@ -106,17 +80,9 @@
                                 </div>
                                 <div class="col-md-11">
                                     <div class="card-body">
-                                        <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
-                                            Sirketi
-                                        </h5>
-                                        <p class="card-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
-                                            quality is an important criteria t......
-                                        </p>
-                                        <a href="#" class="card-text"
-                                            ><country-flag country="tr" size="normal" /> Read Profile Page
-                                        </a>
+                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                                        <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
+                                        <a href="#" class="card-text"><country-flag country="tr" size="normal" /> Read Profile Page </a>
                                         <div class="companyTags">
                                             <span class="companyTag1">technical clothing</span>
                                             <span class="companyTag2">school uniform</span>
@@ -143,17 +109,9 @@
                                 </div>
                                 <div class="col-md-11">
                                     <div class="card-body">
-                                        <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
-                                            Sirketi
-                                        </h5>
-                                        <p class="card-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
-                                            quality is an important criteria t......
-                                        </p>
-                                        <a href="#" class="card-text"
-                                            ><country-flag country="tr" size="normal" /> Read Profile Page</a
-                                        >
+                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                                        <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
+                                        <a href="#" class="card-text"><country-flag country="tr" size="normal" /> Read Profile Page</a>
                                         <div class="companyTags">
                                             <span class="companyTag1">technical clothing</span>
                                             <span class="companyTag2">school uniform</span>
@@ -180,17 +138,9 @@
                                 </div>
                                 <div class="col-md-11">
                                     <div class="card-body">
-                                        <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
-                                            Sirketi
-                                        </h5>
-                                        <p class="card-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
-                                            quality is an important criteria t......
-                                        </p>
-                                        <a href="#" class="card-text"
-                                            ><country-flag country="rus" size="normal" /> Read Profile Page
-                                        </a>
+                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                                        <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
+                                        <a href="#" class="card-text"><country-flag country="rus" size="normal" /> Read Profile Page </a>
                                         <div class="companyTags">
                                             <span class="companyTag1">technical clothing</span>
                                             <span class="companyTag2">school uniform</span>
@@ -254,9 +204,7 @@
 
                         <div class="filterButton">
                             <div class="resetButton">
-                                <button type="reset">
-                                    <span class="material-icons-outlined"> restart_alt </span>Reset Filters
-                                </button>
+                                <button type="reset"><span class="material-icons-outlined"> restart_alt </span>Reset Filters</button>
                             </div>
                             <div class="applyButton">
                                 <button type="submit">Apply</button>
@@ -264,9 +212,7 @@
                         </div>
                         <hr />
                     </form>
-                    <div class="advertisement">
-                        <span class="material-icons-outlined"> ads_click </span><span>advertisement</span>
-                    </div>
+                    <div class="advertisement"><span class="material-icons-outlined"> ads_click </span><span>advertisement</span></div>
                 </div>
             </div>
         </div>
@@ -326,11 +272,13 @@ a:hover {
     font-family: "DM Sans", sans-serif;
     position: relative;
     margin-top: 28px;
-    width: 100%;
+    width: 1020px;
 }
 .companyListFlex {
     display: flex;
-    justify-content: left;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: flex-start;
 }
 .companyList-companies h1 {
     font-weight: 400, regular;
@@ -350,7 +298,6 @@ a:hover {
 
 .companyListTitle div {
     cursor: pointer;
-    -webkit-user-select: none;
     position: absolute;
     right: 0;
     background-color: #005eb5;
@@ -363,6 +310,11 @@ a:hover {
     border-radius: 100px;
     color: #fff;
     font-size: 14px;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
 }
 
 .company {
@@ -476,7 +428,9 @@ a:hover {
     right: 0;
     width: 264px;
     height: 980px;
-    /* transition: all 0.3s ease-in-out; */
+}
+.companyTags span {
+    overflow: hidden;
 }
 
 .filterTitle {
@@ -506,11 +460,10 @@ a:hover {
 
 .field-container {
     position: relative;
-    /* border: 1px solid #000; */
+
     height: 50px;
     width: 100%;
     margin-top: 24px;
-    /* padding-left: 12px; */
 }
 .businessSegments {
     display: none;
@@ -539,14 +492,6 @@ select {
     bottom: 0px;
     height: 50px;
 }
-/* input[type="text"].field-input:focus {
-    outline: none;
-} */
-/* input[type="text"].field-input.c-fix,
-input[type="text"].field-input:focus,
-input[type="text"].field-input:not(:placeholder-shown) {
-    border-color: transparent;
-} */
 
 .field-input ~ label {
     color: #74777f;
@@ -673,6 +618,9 @@ input[type="text"].field-input:-ms-input-placeholder {
         z-index: 12;
         overflow: hidden;
         transition: all 0.3s ease-in-out;
+    }
+    .companyList-companies {
+        width: 100%;
     }
 
     .company .companyTags span {

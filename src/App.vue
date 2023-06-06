@@ -1,6 +1,6 @@
 <template>
     <Header></Header>
-    <div class="container pages">
+    <div class="pages">
         <router-view />
     </div>
     <Footer></Footer>
@@ -26,5 +26,32 @@ import Footer from "@/components/Footer.vue";
     -moz-user-select: none;
     -o-user-select: none;
     user-select: none;
+}
+.line {
+    margin-top: 50px;
+}
+.pages {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1320px;
+}
+
+@media only screen and (max-width: 1400px) {
+    .pages {
+        max-width: 1320px;
+        padding-right: var(--bs-gutter-x, 0.75rem);
+        padding-left: var(--bs-gutter-x, 0.75rem);
+    }
+}
+@media only screen and (max-width: 1200px) {
+    .pages {
+        max-width: 1140px;
+    }
+}
+@media only screen and (max-width: 992px) {
+    .pages {
+        max-width: 960px;
+    }
 }
 </style>

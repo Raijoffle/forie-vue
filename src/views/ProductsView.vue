@@ -12,21 +12,16 @@
                 <div class="productList-products">
                     <div class="productListTitle">
                         <h1>Products List</h1>
-                        <div @click="filterActive(1)">
-                            <span class="material-icons-outlined"> filter_alt </span>Advanced Filter
-                        </div>
+                        <div @click="filterActive(1)"><span class="material-icons-outlined"> filter_alt </span>Advanced Filter</div>
                     </div>
                     <div class="product">
                         <div class="card mb-3" style="max-width: 100%">
                             <div class="row g-0">
                                 <div class="col-md-12">
                                     <div class="card-body">
-                                        <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi
-                                        </h5>
+                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
                                         <p class="card-text product-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is
-                                            an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......
                                         </p>
                                         <!-- Slide -->
                                         <div class="product-slider">
@@ -63,12 +58,9 @@
                             <div class="row g-0">
                                 <div class="col-md-12">
                                     <div class="card-body">
-                                        <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi
-                                        </h5>
+                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
                                         <p class="card-text product-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is
-                                            an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......
                                         </p>
                                         <!-- Slide -->
                                         <div class="product-slider">
@@ -105,12 +97,9 @@
                             <div class="row g-0">
                                 <div class="col-md-12">
                                     <div class="card-body">
-                                        <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi
-                                        </h5>
+                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
                                         <p class="card-text product-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is
-                                            an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......
                                         </p>
                                         <!-- Slide -->
                                         <div class="product-slider">
@@ -147,12 +136,9 @@
                             <div class="row g-0">
                                 <div class="col-md-12">
                                     <div class="card-body">
-                                        <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi
-                                        </h5>
+                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
                                         <p class="card-text product-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is
-                                            an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......
                                         </p>
                                         <!-- Slide -->
                                         <div class="product-slider">
@@ -189,12 +175,9 @@
                             <div class="row g-0">
                                 <div class="col-md-12">
                                     <div class="card-body">
-                                        <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi
-                                        </h5>
+                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
                                         <p class="card-text product-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is
-                                            an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......
                                         </p>
                                         <!-- Slide -->
                                         <div class="product-slider">
@@ -231,12 +214,9 @@
                             <div class="row g-0">
                                 <div class="col-md-12">
                                     <div class="card-body">
-                                        <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi
-                                        </h5>
+                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
                                         <p class="card-text product-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is
-                                            an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......
                                         </p>
                                         <!-- Slide -->
                                         <div class="product-slider">
@@ -273,12 +253,9 @@
                             <div class="row g-0">
                                 <div class="col-md-12">
                                     <div class="card-body">
-                                        <h5 class="card-title">
-                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi
-                                        </h5>
+                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
                                         <p class="card-text product-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is
-                                            an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......
                                         </p>
                                         <!-- Slide -->
                                         <div class="product-slider">
@@ -363,9 +340,7 @@
 
                         <div class="filterButton">
                             <div class="resetButton">
-                                <button type="reset">
-                                    <span class="material-icons-outlined"> restart_alt </span>Reset Filters
-                                </button>
+                                <button type="reset"><span class="material-icons-outlined"> restart_alt </span>Reset Filters</button>
                             </div>
                             <div class="applyButton">
                                 <button type="submit">Apply</button>
@@ -373,9 +348,7 @@
                         </div>
                         <hr />
                     </form>
-                    <div class="advertisement">
-                        <span class="material-icons-outlined"> ads_click </span><span>advertisement</span>
-                    </div>
+                    <div class="advertisement"><span class="material-icons-outlined"> ads_click </span><span>advertisement</span></div>
                 </div>
             </div>
         </div>
@@ -493,9 +466,9 @@ a:hover {
 }
 .productListFlex {
     display: flex;
-    justify-content: left;
-    width: 100%;
-    height: 100%;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: flex-start;
 }
 .productList-products h1 {
     font-weight: 400, regular;
@@ -545,6 +518,7 @@ a:hover {
     border-radius: 28px;
     padding: 6px 16px;
     box-sizing: border-box;
+    max-width: 1020px;
 }
 .product div {
     border: none;
@@ -642,6 +616,10 @@ a:hover {
 }
 .moreLinkDiv a {
     color: #fff;
+}
+
+.productTags span {
+    overflow: hidden;
 }
 .filterDiv {
     margin-top: 50px;

@@ -10,9 +10,8 @@
             </div>
             <div class="joinSubTitle">
                 <span
-                    >Forie Network, provides opportunities to find new customers by conveying millions of purchase requests and
-                    sale offers, promoting international digital brand visibility and analyzing target market with its strong
-                    infrastructure.</span
+                    >Forie Network, provides opportunities to find new customers by conveying millions of purchase requests and sale offers, promoting international digital brand
+                    visibility and analyzing target market with its strong infrastructure.</span
                 >
             </div>
         </div>
@@ -35,9 +34,9 @@
                     <button type="button" class="login">LOG IN</button>
                     <span
                         >If you don't have a membership yet,
-                        <router-link to="login">sign up now</router-link>
+                        <router-link to="/signup">sign up now</router-link>
                     </span>
-                    <button class="accountActivation" type="button">Account Activation</button>
+                    <router-link class="accountActivation" to="/accountactivation">Account Activation</router-link>
                 </form>
             </div>
         </div>
@@ -312,7 +311,7 @@ select {
     align-items: center;
     padding: 10px 24px;
     position: static;
-    width: 177px;
+    width: 180px;
     height: 40px;
     border: 1px solid #74777f;
     box-sizing: border-box;
@@ -363,6 +362,11 @@ select {
     color: #005eb5;
 }
 @media only screen and (max-width: 470px) {
+    .joinContent {
+        justify-content: center;
+    }
+}
+@media only screen and (max-width: 470px) {
     .freeJoin .joinContent {
         width: 320px;
     }
@@ -391,6 +395,24 @@ select {
     }
     .form input {
         max-width: 320px;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .freeJoin .joinContent {
+        width: 300px;
+    }
+
+    .freeJoin .joinForm .formTitle,
+    .freeJoin .joinForm .formTitle h1,
+    .freeJoin .joinForm .formTitle span {
+        width: 300px;
+    }
+    .freeJoin .joinForm .form,
+    .freeJoin .joinForm .form span {
+        width: 300px;
+    }
+    .form input {
+        max-width: 300px;
     }
 }
 @media only screen and (max-width: 280px) {
