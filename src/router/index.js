@@ -8,6 +8,10 @@ const routes = [
         meta: {
             title: "Export Raijoffle - Home Page",
             description: "Export Raijoffle Home Page",
+            canonical: `https://export.raijoffle.com/`,
+            keywords: "export, export portal, export to the world",
+            url: "https://export.raijoffle.com",
+            identifierURL: "https://export.raijoffle.com",
         },
     },
     {
@@ -17,6 +21,10 @@ const routes = [
         meta: {
             title: "Export Raijoffle - Companies Page",
             description: "Export Raijoffle Companies Page",
+            canonical: `https://export.raijoffle.com/companies`,
+            keywords: "company, companies, export company",
+            url: "https://export.raijoffle.com/companies",
+            identifierURL: "https://export.raijoffle.com/companies",
         },
     },
     {
@@ -26,6 +34,10 @@ const routes = [
         meta: {
             title: "Export Raijoffle - Leades Page",
             description: "Export Raijoffle Leades Page",
+            canonical: `https://export.raijoffle.com/leades`,
+            keywords: "export lead, export leades, leades",
+            url: "https://export.raijoffle.com/leades",
+            identifierURL: "https://export.raijoffle.com/leades",
         },
     },
     {
@@ -35,6 +47,10 @@ const routes = [
         meta: {
             title: "Export Raijoffle - Products Page",
             description: "Export Raijoffle Products Page",
+            canonical: `https://export.raijoffle.com/products`,
+            keywords: "products, export products, company products",
+            url: "https://export.raijoffle.com/products",
+            identifierURL: "https://export.raijoffle.com/products",
         },
     },
     {
@@ -44,6 +60,10 @@ const routes = [
         meta: {
             title: "Export Raijoffle - Login Page",
             description: "Export Raijoffle Login Page",
+            canonical: `https://export.raijoffle.com/login`,
+            keywords: "login, export portal login, export portal signin",
+            url: "https://export.raijoffle.com/login",
+            identifierURL: "https://export.raijoffle.com/login",
         },
     },
     {
@@ -53,15 +73,23 @@ const routes = [
         meta: {
             title: "Export Raijoffle - Signup Page",
             description: "Export Raijoffle Signup Page",
+            canonical: `https://export.raijoffle.com/signup`,
+            keywords: "signup, export portal signup, export portal register",
+            url: "https://export.raijoffle.com/signup",
+            identifierURL: "https://export.raijoffle.com/signup",
         },
     },
     {
-        path: "/companydetail/:Id",
+        path: "/companydetail/:id",
         name: "companydetail",
         component: () => import(/* webpackChunkName: "companydetail" */ "../views/CompanyDetailView.vue"),
         meta: {
             title: "Export Raijoffle - Company Detail Page",
             description: "Export Raijoffle Company Detail",
+            canonical: `https://export.raijoffle.com/componydetail/:id`,
+            keywords: "company detail, detail company, companies detail",
+            url: "https://export.raijoffle.com/componydetail/:id",
+            identifierURL: "https://export.raijoffle.com/componydetail/:id",
         },
     },
     {
@@ -71,6 +99,10 @@ const routes = [
         meta: {
             title: "Export Raijoffle - Lead Detail Page",
             description: "Export Raijoffle Lead Detail Page",
+            canonical: `https://export.raijoffle.com/leaddetail/:id`,
+            keywords: "lead, leades, lead detail",
+            url: "https://export.raijoffle.com/leaddetail/:id",
+            identifierURL: "https://export.raijoffle.com/leaddetail/:id",
         },
     },
     {
@@ -80,6 +112,10 @@ const routes = [
         meta: {
             title: "Export Raijoffle - Server Error Page",
             description: "Export Raijoffle Server Error Page",
+            canonical: `https://export.raijoffle.com/servererror`,
+            keywords: "Server Error",
+            url: "https://export.raijoffle.com/servererror",
+            identifierURL: "https://export.raijoffle.com/servererror",
         },
     },
     {
@@ -89,6 +125,10 @@ const routes = [
         meta: {
             title: "Export Raijoffle - Forget Password Page",
             description: "Export Raijoffle Forget Password Page",
+            canonical: `https://export.raijoffle.com/forgetpassword`,
+            keywords: "forget Password, get password again",
+            url: "https://export.raijoffle.com/forgetpassword",
+            identifierURL: "https://export.raijoffle.com/forgetpassword",
         },
     },
     {
@@ -98,6 +138,10 @@ const routes = [
         meta: {
             title: "Export Raijoffle - Account Activation Page",
             description: "Export Raijoffle Account Activation Page",
+            canonical: `https://export.raijoffle.com/accountactivation`,
+            keywords: "account activation, activation, account",
+            url: "https://export.raijoffle.com/accountactivation",
+            identifierURL: "https://export.raijoffle.com/accountactivation",
         },
     },
 
@@ -108,6 +152,10 @@ const routes = [
         meta: {
             title: "Export Raijoffle - Page Not Found",
             description: "Export Raijoffle Page Not Found",
+            canonical: `https://export.raijoffle.com/pagenotfound`,
+            keywords: "Page Not Found",
+            url: "https://export.raijoffle.com/:pathMatch(.*)*",
+            identifierURL: "https://export.raijoffle.com/:pathMatch(.*)*",
         },
     },
 ];
@@ -119,8 +167,14 @@ const router = createRouter({
 router.beforeEach((to) => {
     document.title = to.meta.title;
     const description = document.querySelector('meta[name="description"]');
-    if (description) {
-        description.setAttribute("content", to.meta.description);
-    }
+    const canonical = document.querySelector('link[rel="canonical"]');
+    const keywords = document.querySelector('meta[name="keywords"]');
+    const url = document.querySelector('meta[name="url"]');
+    const identifierURL = document.querySelector('meta[name="identifier-URL"]');
+    description.setAttribute("content", to.meta.description);
+    canonical.setAttribute("href", to.meta.canonical);
+    keywords.setAttribute("content", to.meta.keywords);
+    url.setAttribute("content", to.meta.url);
+    identifierURL.setAttribute("content", to.meta.identifierURL);
 });
 export default router;

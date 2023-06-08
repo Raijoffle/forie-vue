@@ -1,14 +1,14 @@
 <template>
     <div class="serverError">
         <div class="errorLeft">
-            <div class="leftIcon"><img src="@/assets/img/icon-logo.svg" alt="İkon Logo Svg" />Textile Products</div>
+            <div class="leftIcon"><img src="@/assets/img/LOGO.webp" alt="Raijoffle Random Logo" />Textile Products</div>
             <div class="errorText"><p>An unknown error has occurred on the server.</p></div>
-            <div class="forieNetwork">
-                <img src="@/assets/img/ForieNetwork.png" alt="" />
+            <div class="RaijoffleNetwork">
+                <img src="@/assets/img/LOGO.webp" alt="Raijoffle Random Logo" />
             </div>
         </div>
         <div class="errorRight">
-            <img src="@/assets/img/server-error-image.webp" alt="" />
+            <img src="@/assets/img/server-error-image.webp" alt="Server Error İmage" />
             <div class="filterDiv"><div class="filter"></div></div>
         </div>
     </div>
@@ -54,7 +54,7 @@ export default {};
     margin: 0px 15px;
 }
 .leftIcon img {
-    width: 30px;
+    width: 200px;
     margin: 0px 10px;
 }
 .errorText {

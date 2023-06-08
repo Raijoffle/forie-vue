@@ -2,22 +2,22 @@
     <div class="freeJoin">
         <div class="joinContent">
             <div class="logo">
-                <img src="@/assets/img/ForieNetwork.png" alt="" />
+                <img src="@/assets/img/LOGO.webp" alt="raijoffle random logo" />
             </div>
-            <span class="memberText">TextileYarn is a member of Forie Network</span>
+            <span class="memberText">TextileYarn is a member of Raijoffle</span>
             <div class="joinTitle">
-                <h3>Free Join the Forie Network, which includes more than 6 million companies worldwide.</h3>
+                <h3>Free Join the Raijoffle, which includes more than 6 million companies worldwide.</h3>
             </div>
             <div class="joinSubTitle">
                 <span
-                    >Forie Network, provides opportunities to find new customers by conveying millions of purchase requests and sale offers, promoting international digital brand
+                    >Raijoffle, provides opportunities to find new customers by conveying millions of purchase requests and sale offers, promoting international digital brand
                     visibility and analyzing target market with its strong infrastructure.</span
                 >
             </div>
         </div>
         <div class="joinForm">
             <div class="formTitle">
-                <h1>Welcome to Forie</h1>
+                <h1>Welcome to Raijoffle</h1>
                 <span>You can log in to the system with your registered e-mail and password</span>
             </div>
             <div class="form">

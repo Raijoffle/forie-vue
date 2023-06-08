@@ -9,7 +9,7 @@
                 </div>
             </div>
             <div class="footerCopyRight">
-                <p>2022 © ForieNetwork All Rights Reserved.</p>
+                <p>2022 © Raijoffle All Rights Reserved.</p>
             </div>
             <div class="footerSocialMedia">
                 <a href="#facebook" target="_blank" class="linkicons">

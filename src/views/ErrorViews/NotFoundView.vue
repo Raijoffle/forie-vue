@@ -61,27 +61,15 @@
                             <div class="col-md-1">
                                 <div class="company-logo">
                                     <div class="company-logoImage">
-                                        <img
-                                            src="https://cdn.forie.com/storage/general/logo/forie-logo.svg"
-                                            class="img-fluid rounded-start"
-                                            alt="ss"
-                                        />
+                                        <img src="@/assets/img/LOGO.webp" alt="raijoffle random logo" class="img-fluid rounded-start" />
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-11">
                                 <div class="card-body">
-                                    <h5 class="card-title">
-                                        Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi
-                                    </h5>
-                                    <p class="card-text">
-                                        Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an
-                                        important criteria t......
-                                    </p>
-                                    <a href="#" class="card-text">
-                                        <country-flag country="tr" size="small" /> <country-flag country="gb" size="small" /> Read
-                                        Profile Page</a
-                                    >
+                                    <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                                    <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
+                                    <a href="#" class="card-text"> <country-flag country="tr" size="small" /> <country-flag country="gb" size="small" /> Read Profile Page</a>
                                     <div class="companyTags">
                                         <span class="companyTag1">technical clothing</span>
                                         <span class="companyTag2">school uniform</span>
@@ -98,27 +86,15 @@
                             <div class="col-md-1">
                                 <div class="company-logo">
                                     <div class="company-logoImage">
-                                        <img
-                                            src="https://www.turkishexporter.net/assetsFront/img/logo.png"
-                                            class="img-fluid rounded-start"
-                                            alt="ss"
-                                        />
+                                        <img src="@/assets/img/LOGO.webp" alt="raijoffle random logo" class="img-fluid rounded-start" />
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-11">
                                 <div class="card-body">
-                                    <h5 class="card-title">
-                                        Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi
-                                    </h5>
-                                    <p class="card-text">
-                                        Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an
-                                        important criteria t......
-                                    </p>
-                                    <a href="#" class="card-text">
-                                        <country-flag country="tr" size="small" /> <country-flag country="gb" size="small" /> Read
-                                        Profile Page</a
-                                    >
+                                    <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                                    <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
+                                    <a href="#" class="card-text"> <country-flag country="tr" size="small" /> <country-flag country="gb" size="small" /> Read Profile Page</a>
                                     <div class="companyTags">
                                         <span class="companyTag1">technical clothing</span>
                                         <span class="companyTag2">school uniform</span>
@@ -149,15 +125,12 @@
                     </div>
                     <div class="leadesBody">
                         <div class="leadesContent">
-                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter,
-                            forklift, excavator etc.
+                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
                         </div>
                         <div class="leadFooter">
                             <div class="leadesStatus">
-                                <span class="material-icons-outlined leadesIcon"> card_travel </span
-                                ><span class="leadesText">Buy Request</span>
-                                <span class="material-icons-outlined leadesIcon"> copyright </span
-                                ><span class="leadesText">10 Credit</span>
+                                <span class="material-icons-outlined leadesIcon"> card_travel </span><span class="leadesText">Buy Request</span>
+                                <span class="material-icons-outlined leadesIcon"> copyright </span><span class="leadesText">10 Credit</span>
                             </div>
                         </div>
                         <div class="leadesTag">
@@ -177,15 +150,12 @@
                     </div>
                     <div class="leadesBody">
                         <div class="leadesContent">
-                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter,
-                            forklift, excavator etc.
+                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
                         </div>
                         <div class="leadFooter">
                             <div class="leadesStatus">
-                                <span class="material-icons-outlined leadesIcon"> card_travel </span
-                                ><span class="leadesText">Buy Request</span>
-                                <span class="material-icons-outlined leadesIcon"> copyright </span
-                                ><span class="leadesText">10 Credit</span>
+                                <span class="material-icons-outlined leadesIcon"> card_travel </span><span class="leadesText">Buy Request</span>
+                                <span class="material-icons-outlined leadesIcon"> copyright </span><span class="leadesText">10 Credit</span>
                             </div>
                         </div>
                         <div class="leadesTag">
@@ -205,15 +175,12 @@
                     </div>
                     <div class="leadesBody">
                         <div class="leadesContent">
-                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter,
-                            forklift, excavator etc.
+                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
                         </div>
                         <div class="leadFooter">
                             <div class="leadesStatus">
-                                <span class="material-icons-outlined leadesIcon"> card_travel </span
-                                ><span class="leadesText">Buy Request</span>
-                                <span class="material-icons-outlined leadesIcon"> copyright </span
-                                ><span class="leadesText">10 Credit</span>
+                                <span class="material-icons-outlined leadesIcon"> card_travel </span><span class="leadesText">Buy Request</span>
+                                <span class="material-icons-outlined leadesIcon"> copyright </span><span class="leadesText">10 Credit</span>
                             </div>
                         </div>
                         <div class="leadesTag">

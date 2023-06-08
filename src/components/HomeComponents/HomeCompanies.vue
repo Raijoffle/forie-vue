@@ -3,18 +3,18 @@
     <div class="home-companies">
         <h1>Companies</h1>
         <div class="company">
-            <div class="card mb-3" style="max-width: 100%">
+            <div class="card mb-3">
                 <div class="row g-0">
                     <div class="col-md-1">
                         <div class="company-logo">
                             <div class="company-logoImage">
-                                <img src="https://cdn.forie.com/storage/general/logo/forie-logo.svg" class="img-fluid rounded-start" alt="ss" />
+                                <img src="@/assets/img/LOGO.webp" alt="raijoffle random logo" class="img-fluid rounded-start" />
                             </div>
                         </div>
                     </div>
                     <div class="col-md-11">
                         <div class="card-body">
-                            <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                            <h5 class="card-title">Raijoffle Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
                             <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
                             <a href="#" class="card-text">
                                 <country-flag country="tr" size="small" />
@@ -31,18 +31,18 @@
             </div>
         </div>
         <div class="company">
-            <div class="card mb-3" style="max-width: 100%">
+            <div class="card mb-3">
                 <div class="row g-0">
                     <div class="col-md-1">
                         <div class="company-logo">
                             <div class="company-logoImage">
-                                <img src="https://www.turkishexporter.net/assetsFront/img/logo.png" class="img-fluid rounded-start" alt="ss" />
+                                <img src="@/assets/img/LOGO.webp" alt="raijoffle random logo" class="img-fluid rounded-start" />
                             </div>
                         </div>
                     </div>
                     <div class="col-md-11">
                         <div class="card-body">
-                            <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                            <h5 class="card-title">Raijoffle Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
                             <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
                             <a href="#" class="card-text">
                                 <country-flag country="tr" size="small" />
@@ -59,18 +59,18 @@
             </div>
         </div>
         <div class="company">
-            <div class="card mb-3" style="max-width: 100%">
+            <div class="card mb-3">
                 <div class="row g-0">
                     <div class="col-md-1">
                         <div class="company-logo">
                             <div class="company-logoImage">
-                                <img src="https://cdn.forie.com/storage/images/companies/logo/2a819095-18e3-4e0b-b348-aa811fb101ce.png" class="img-fluid rounded-start" alt="ss" />
+                                <img src="@/assets/img/LOGO.webp" alt="raijoffle random logo" class="img-fluid rounded-start" />
                             </div>
                         </div>
                     </div>
                     <div class="col-md-11">
                         <div class="card-body">
-                            <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                            <h5 class="card-title">Raijoffle Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
                             <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
                             <a href="#" class="card-text">
                                 <country-flag country="tr" size="small" />
@@ -87,18 +87,18 @@
             </div>
         </div>
         <div class="company">
-            <div class="card mb-3" style="max-width: 100%">
+            <div class="card mb-3">
                 <div class="row g-0">
                     <div class="col-md-1">
                         <div class="company-logo">
                             <div class="company-logoImage">
-                                <img src="https://cdn.forie.com/storage/images/companies/logo/799d298a-d673-4da9-ab14-e27ca0c65600.jpg" class="img-fluid rounded-start" alt="ss" />
+                                <img src="@/assets/img/LOGO.webp" alt="raijoffle random logo" class="img-fluid rounded-start" />
                             </div>
                         </div>
                     </div>
                     <div class="col-md-11">
                         <div class="card-body">
-                            <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                            <h5 class="card-title">Raijoffle Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
                             <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
                             <a href="#" class="card-text">
                                 <country-flag country="tr" size="small" />
@@ -115,18 +115,18 @@
             </div>
         </div>
         <div class="company">
-            <div class="card mb-3" style="max-width: 100%">
+            <div class="card mb-3">
                 <div class="row g-0">
                     <div class="col-md-1">
                         <div class="company-logo">
                             <div class="company-logoImage">
-                                <img src="https://cdn.forie.com/storage/images/companies/logo/de128a34-4018-4b3d-af3a-a38a73034582.png" class="img-fluid rounded-start" alt="ss" />
+                                <img src="@/assets/img/LOGO.webp" alt="raijoffle random logo" class="img-fluid rounded-start" />
                             </div>
                         </div>
                     </div>
                     <div class="col-md-11">
                         <div class="card-body">
-                            <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                            <h5 class="card-title">Raijoffle Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
                             <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
                             <a href="#" class="card-text">
                                 <country-flag country="tr" size="small" />

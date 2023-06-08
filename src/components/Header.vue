@@ -1,8 +1,8 @@
 <template>
     <div id="header">
         <div class="header-content">
-            <div class="headerIcon">
-                <img src="https://cdn.forie.com/storage/general/logo/forie-logo.svg" alt="" />
+            <div class="headerLogo">
+                <img src="@/assets/img/LOGO.webp" alt="raijoffle random logo" />
             </div>
             <div class="headerLinks">
                 <div class="loginlink">
@@ -93,28 +93,6 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-/* nav {
-    text-align: center;
-    width: 35%;
-    max-width: 500px;
-}
-
-nav a {
-    position: relative;
-    font-size: 14px;
-    line-height: 20px;
-    font-weight: 500px;
-    color: #fff;
-    letter-spacing: 0.1px;
-    text-decoration: none;
-    font-family: "DM Sans", sans-serif;
-    margin: 8px 8px;
-    top: 18px;
-}
-
-nav a.router-link-exact-active {
-    color: #a5c8ff;
-} */
 a {
     font-family: "DM Sans", sans-serif;
     font-style: normal;
@@ -151,7 +129,7 @@ a {
     display: flex;
     box-sizing: border-box;
 }
-.headerIcon {
+.headerLogo {
     float: left;
     position: relative;
     box-sizing: border-box;
@@ -164,8 +142,8 @@ a {
     transform: translateY(-50%);
     z-index: 5;
 }
-.headerIcon img {
-    max-height: 53px;
+.headerLogo img {
+    max-height: 20px;
 }
 .headerSearch {
     position: relative;

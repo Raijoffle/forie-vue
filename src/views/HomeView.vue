@@ -67,7 +67,7 @@ export default {
     line-height: 44px;
     display: flex;
     align-items: center;
-    color: #005eb5;
+    color: #3c7fb9b8;
     text-align: left;
 }
 .companyTags span {

@@ -95,8 +95,8 @@ export default defineComponent({
     transform: translateX(-50%);
     height: 50px;
     width: 50px;
-    /* margin-top: 50px; */
 }
+
 .home-slider {
     position: relative;
 
@@ -200,5 +200,12 @@ export default defineComponent({
         transform: translateY(-45%);
         top: 50px;
     }
+}
+</style>
+
+<style>
+.carousel__prev,
+.carousel__next {
+    background-color: #005eb5 !important;
 }
 </style>

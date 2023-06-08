@@ -2,17 +2,16 @@
     <div class="freeJoin">
         <div class="joinContent">
             <div class="logo">
-                <img src="@/assets/img/ForieNetwork.png" alt="" />
+                <img src="@/assets/img/LOGO.webp" alt="raijoffle random logo" />
             </div>
-            <span class="memberText">TextileYarn is a member of Forie Network</span>
+            <span class="memberText">TextileYarn is a member of Raijoffle</span>
             <div class="joinTitle">
-                <h3>Free Join the Forie Network, which includes more than 6 million companies worldwide.</h3>
+                <h3>Free Join the Raijoffle, which includes more than 6 million companies worldwide.</h3>
             </div>
             <div class="joinSubTitle">
                 <span
-                    >Forie Network, provides opportunities to find new customers by conveying millions of purchase requests and
-                    sale offers, promoting international digital brand visibility and analyzing target market with its strong
-                    infrastructure.</span
+                    >Raijoffle, provides opportunities to find new customers by conveying millions of purchase requests and sale offers, promoting international digital brand
+                    visibility and analyzing target market with its strong infrastructure.</span
                 >
             </div>
         </div>
@@ -52,8 +51,8 @@
                             </div>
                             <div class="agreementText">
                                 <span
-                                    >I would like to be informed of special promotions and news regarding Forie based on my
-                                    personal interests and give my consent as described in detail here.</span
+                                    >I would like to be informed of special promotions and news regarding Raijoffle based on my personal interests and give my consent as described
+                                    in detail here.</span
                                 >
                             </div>
                         </div>
@@ -71,8 +70,7 @@
                             </div>
                             <div class="agreementText">
                                 <span>
-                                    would like to activate the account and be informed of special promotions regarding Forie
-                                    within the scope of the
+                                    would like to activate the account and be informed of special promotions regarding Raijoffle within the scope of the
                                     <a href="#">Consent to Receiving Marketing Information.</a></span
                                 >
                             </div>
