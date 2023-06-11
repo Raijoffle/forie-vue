@@ -18,7 +18,7 @@ export default {};
 </script>
 <style scoped>
 * {
-    font-family: "Dm Sans";
+    font-family: "Dm Sans", sans-serif;
 }
 .serverError {
     width: 100%;
@@ -40,7 +40,7 @@ export default {};
     z-index: 1;
 }
 .leftIcon {
-    font-family: "Fira Sans";
+    font-family: "Dm Sans", sans-serif;
     font-style: italic;
     font-weight: 700;
     font-size: 33.75px;
@@ -58,7 +58,7 @@ export default {};
     margin: 0px 10px;
 }
 .errorText {
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 45px;

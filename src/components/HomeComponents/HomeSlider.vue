@@ -55,8 +55,8 @@ export default defineComponent({
 </script>
 <template>
     <div class="suppliersContent">
-        <p class="suppliersContent1">Suppliers in All Industries Manufacturers and Exporter Companies Lists</p>
-        <p class="suppliersContent2">Importers, exporters, wholesalers, producers from all around the world</p>
+        <h3 class="suppliersContent1">Suppliers in All Industries Manufacturers and Exporter Companies Lists</h3>
+        <h6 class="suppliersContent2">Importers, exporters, wholesalers, producers from all around the world</h6>
     </div>
     <hr class="line" />
     <div class="home-slider">
@@ -137,7 +137,7 @@ export default defineComponent({
     width: 80%;
     margin: 0 auto;
     margin-top: 50px;
-    font-family: DM Sans;
+
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
@@ -151,7 +151,6 @@ export default defineComponent({
     flex-grow: 0;
 }
 .suppliersContent2 {
-    font-family: DM Sans;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;

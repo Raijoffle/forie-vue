@@ -94,7 +94,6 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 a {
-    font-family: "DM Sans", sans-serif;
     font-style: normal;
     font-size: 14px;
     line-height: 20px;
@@ -181,7 +180,6 @@ a {
     z-index: 2;
 }
 #headerSearchInput::placeholder {
-    font-family: "DM Sans", sans-serif;
     font-style: normal;
     font-weight: 400;
     color: #5d5e61;
@@ -202,7 +200,7 @@ a {
     margin: 8px 0;
     width: 50%;
     top: 8px;
-    font-family: "DM Sans", sans-serif;
+
     font-style: normal;
     font-size: 14px;
     line-height: 20px;

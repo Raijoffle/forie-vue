@@ -83,7 +83,6 @@ export default {
     margin: 0 auto;
     margin-top: 50px;
     position: absolute;
-    font-family: "DM Sans", sans-serif;
 }
 .footerPageLinks {
     text-align: center;
@@ -94,7 +93,7 @@ export default {
     margin-right: 20px;
     width: 100%;
     color: #a5c8ff;
-    font-weight: 500px;
+    font-weight: 500;
     letter-spacing: 0.1px;
     line-height: 20px;
     font-style: normal;
@@ -103,8 +102,8 @@ export default {
 }
 .footerCopyRight {
     color: #fff;
-    font-family: "DM Sans", sans-serif;
-    font-weight: 500px;
+
+    font-weight: 500;
     font-style: normal;
     font-size: 16px;
     line-height: 24px;

@@ -13,7 +13,7 @@ import Footer from "@/components/Footer.vue";
 
 <style>
 #app {
-    font-family: Dm Sans, sans-serif;
+    font-family: "Dm Sans", sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
@@ -53,5 +53,13 @@ import Footer from "@/components/Footer.vue";
     .pages {
         max-width: 960px;
     }
+}
+
+@font-face {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    src: local("Roboto"), local("Roboto"), url(https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700display=swap) format("css");
+    font-display: swap;
 }
 </style>

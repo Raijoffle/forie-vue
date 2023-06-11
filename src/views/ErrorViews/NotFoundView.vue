@@ -205,7 +205,7 @@ import { defineComponent } from "vue";
 import { Carousel, Navigation, Slide } from "vue3-carousel";
 import "vue3-carousel/dist/carousel.css";
 export default defineComponent({
-    name: "HomeView",
+    name: "PageNotFound",
     data: () => ({
         // carousel settings
         settings: {
@@ -267,7 +267,7 @@ export default defineComponent({
     display: flex;
     align-items: center;
     vertical-align: center;
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
 }
 .pageRoute p {
     /* display: inline-block; */
@@ -299,7 +299,7 @@ export default defineComponent({
     display: flex;
     align-items: center;
     color: #1b1b1d;
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
 }
 .notFoundHead .content {
     margin-top: 40px;
@@ -308,7 +308,7 @@ export default defineComponent({
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 22px;
@@ -349,7 +349,7 @@ export default defineComponent({
     font-size: 22px;
     line-height: 28px;
     text-align: center;
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
     font-feature-settings: "liga" off;
     color: #1b1b1d;
     flex: none;
@@ -369,7 +369,7 @@ export default defineComponent({
     flex: none;
     order: 1;
     align-self: stretch;
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
     flex-grow: 0;
 }
 .sider-btn {
@@ -428,7 +428,6 @@ export default defineComponent({
     margin-bottom: 50px;
 }
 .company {
-    font-family: "Dm Sans", sans-serif;
     text-align: left;
     position: relative;
     margin-bottom: 25px;
@@ -479,7 +478,7 @@ export default defineComponent({
     padding: 6px 16px;
     box-sizing: border-box;
     margin: 0px 8px;
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -551,7 +550,7 @@ export default defineComponent({
     max-width: 360px;
     max-height: 380px;
     margin: 20px 0px;
-    font-family: "DM Sans", sans-serif;
+
     position: relative;
     border: 1px solid rgba(116, 119, 127, 0.15);
     box-sizing: border-box;
@@ -617,7 +616,7 @@ export default defineComponent({
     margin-right: 5px;
 }
 .leadesText {
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;

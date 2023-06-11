@@ -347,7 +347,6 @@ export default defineComponent({
 </script>
 <style scoped>
 .companyDetail {
-    font-family: "DM Sans", sans-serif;
     height: 100%;
 }
 .pageRoute {
@@ -854,7 +853,7 @@ input[type="text"].field-input:-ms-input-placeholder {
     color: #1b1b1d;
 }
 .companyBusiness .content span {
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -1019,14 +1018,13 @@ input[type="text"].field-input:-ms-input-placeholder {
     margin-top: 50px;
 }
 .companiesList {
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
     font-style: normal;
     font-weight: 400;
     position: relative;
     width: 100%;
 }
 .companyList-companies {
-    font-family: "DM Sans", sans-serif;
     position: relative;
     margin-top: 28px;
     width: 100%;
@@ -1069,7 +1067,6 @@ input[type="text"].field-input:-ms-input-placeholder {
 }
 
 .company {
-    font-family: "Dm Sans", sans-serif;
     text-align: left;
     position: relative;
     border: 1px solid rgba(116, 119, 127, 0.12);
@@ -1126,7 +1123,7 @@ input[type="text"].field-input:-ms-input-placeholder {
     padding: 6px 16px;
     box-sizing: border-box;
     margin: 0px 8px;
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;

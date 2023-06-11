@@ -1,7 +1,11 @@
-<script setup></script>
+<script>
+export default {
+    name: "HomeCompaniesComponent",
+};
+</script>
 <template>
     <div class="home-companies">
-        <h1>Companies</h1>
+        <h2>Companies</h2>
         <div class="company">
             <div class="card mb-3">
                 <div class="row g-0">
@@ -150,11 +154,10 @@
 
 <style scoped>
 .home-companies {
-    font-family: "DM Sans", sans-serif;
     position: relative;
     margin-top: 50px;
 }
-.home-companies h1 {
+.home-companies h2 {
     font-weight: 400, regular;
     font-style: normal;
     font-size: 28px;
@@ -166,7 +169,6 @@
     margin-bottom: 50px;
 }
 .company {
-    font-family: "Dm Sans", sans-serif;
     text-align: left;
     position: relative;
     margin-bottom: 25px;
@@ -217,7 +219,7 @@
     padding: 6px 16px;
     box-sizing: border-box;
     margin: 0px 8px;
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;

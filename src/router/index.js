@@ -145,26 +145,26 @@ const routes = [
         },
     },
 
-    {
-        path: "/:pathMatch(.*)*",
-        name: "NotFound",
-        component: () => import(/* webpackChunkName: "pageNotFound" */ "@/views/ErrorViews/NotFoundView.vue"),
-        meta: {
-            title: "Export Raijoffle - Page Not Found",
-            description: "Export Raijoffle Page Not Found",
-            canonical: `https://export.raijoffle.com/pagenotfound`,
-            keywords: "Page Not Found",
-            url: "https://export.raijoffle.com/:pathMatch(.*)*",
-            identifierURL: "https://export.raijoffle.com/:pathMatch(.*)*",
-        },
-    },
+    // {
+    //     path: "/:pathMatch(.*)*",
+    //     name: "NotFound",
+    //     component: () => import(/* webpackChunkName: "pageNotFound" */ "@/views/ErrorViews/NotFoundView.vue"),
+    //     meta: {
+    //         title: "Export Raijoffle - Page Not Found",
+    //         description: "Export Raijoffle Page Not Found",
+    //         canonical: `https://export.raijoffle.com/pagenotfound`,
+    //         keywords: "Page Not Found",
+    //         url: "https://export.raijoffle.com/:pathMatch(.*)*",
+    //         identifierURL: "https://export.raijoffle.com/:pathMatch(.*)*",
+    //     },
+    // },
 ];
 
 const router = createRouter({
     history: createWebHistory(process.env.BASE_URL),
     routes,
 });
-router.beforeEach((to) => {
+router.beforeEach((to, from, next) => {
     document.title = to.meta.title;
     const description = document.querySelector('meta[name="description"]');
     const canonical = document.querySelector('link[rel="canonical"]');
@@ -176,5 +176,16 @@ router.beforeEach((to) => {
     keywords.setAttribute("content", to.meta.keywords);
     url.setAttribute("content", to.meta.url);
     identifierURL.setAttribute("content", to.meta.identifierURL);
+
+    if (to.matched.length === 0) {
+        // Eşleşen bir route yoksa, yani 404 durumu
+        const error = new Error("Not Found");
+        error.status = 404;
+        next(error);
+        console.log(error);
+    } else {
+        // Geçerli route varsa devam et
+        next();
+    }
 });
 export default router;

@@ -60,7 +60,7 @@ export default {
 
 .suppliers h1 {
     display: inline-block;
-    font-family: "DM Sans", sans-serif;
+
     font-weight: 500;
     font-style: normal;
     font-size: 36px;

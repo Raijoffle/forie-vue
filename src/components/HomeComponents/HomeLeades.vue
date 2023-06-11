@@ -1,7 +1,7 @@
 <script setup></script>
 <template>
     <div class="home-leades">
-        <h1>Leades</h1>
+        <h2>Leades</h2>
         <div class="leades-flex">
             <div class="leades">
                 <div class="leadesDate"><span>27.01.2022</span></div>
@@ -164,7 +164,7 @@
     position: relative;
     margin-top: 50px;
 }
-.home-leades h1 {
+.home-leades h2 {
     font-weight: 400, regular;
     font-style: normal;
     font-size: 28px;
@@ -189,7 +189,7 @@
     max-width: 360px;
     max-height: 380px;
     margin: 20px 0px;
-    font-family: "DM Sans", sans-serif;
+
     position: relative;
     border: 1px solid rgba(116, 119, 127, 0.15);
     box-sizing: border-box;
@@ -255,7 +255,7 @@
     margin-right: 5px;
 }
 .leadesText {
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;

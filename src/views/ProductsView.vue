@@ -452,14 +452,13 @@ a:hover {
     box-sizing: border-box;
 }
 .productsList {
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
     font-style: normal;
     font-weight: 400;
     position: relative;
     width: 100%;
 }
 .productList-products {
-    font-family: "DM Sans", sans-serif;
     position: relative;
     margin-top: 28px;
     width: 100%;
@@ -508,7 +507,6 @@ a:hover {
 }
 
 .product {
-    font-family: "Dm Sans", sans-serif;
     text-align: left;
     position: relative;
     margin-top: 25px;
@@ -574,7 +572,7 @@ a:hover {
     padding: 6px 16px;
     box-sizing: border-box;
     margin: 0px 8px;
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 12px;

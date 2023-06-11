@@ -816,14 +816,13 @@ a:hover {
     box-sizing: border-box;
 }
 .companiesList {
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
     font-style: normal;
     font-weight: 400;
     position: relative;
     width: 100%;
 }
 .leadesList-companies {
-    font-family: "DM Sans", sans-serif;
     position: relative;
     margin-top: 28px;
     width: 1020px;
@@ -868,7 +867,6 @@ a:hover {
 }
 
 .leades {
-    font-family: "Dm Sans", sans-serif;
     text-align: left;
     position: relative;
     margin-bottom: 25px;
@@ -920,7 +918,7 @@ a:hover {
     padding: 6px 16px;
     box-sizing: border-box;
     margin: 8px 8px;
-    font-family: "DM Sans";
+    font-family: "Dm Sans", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
