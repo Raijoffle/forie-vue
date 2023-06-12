@@ -6,8 +6,9 @@ const routes = [
         name: "home",
         component: () => import(/* webpackChunkName: "companies" */ "../views/HomeView.vue"),
         meta: {
-            title: "Export Raijoffle - Home Page",
-            description: "Export Raijoffle Home Page",
+            title: "Export Raijoffle - Home Page | An export portal for World Wide Export",
+            description:
+                "Raijoffle Export Portal | An export portal for World Wide Export -  List purchase and sale requests with the export portal, Increase your exports with Raijoffle Export Portal.",
             canonical: `https://export.raijoffle.com/`,
             keywords: "export, export portal, export to the world",
             url: "https://export.raijoffle.com",
