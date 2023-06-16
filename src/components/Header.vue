@@ -15,10 +15,14 @@
                 <router-link class="myaccount" to="/mypage">My Account</router-link>
                 <div class="accountModal">
                     <div>
-                        <router-link to="/mypage/5"> <span class="material-icons-outlined">person</span> My Page</router-link>
+                        <router-link to="/mypage/5">
+                            <span class="material-icons-outlined">person</span> My Page</router-link
+                        >
                     </div>
                     <div>
-                        <router-link to="/"> <span class="material-icons-outlined">business_center</span> Company Managment</router-link>
+                        <router-link to="/">
+                            <span class="material-icons-outlined">business_center</span> Company Managment</router-link
+                        >
                     </div>
                     <div>
                         <router-link to="/"> <span class="material-icons-outlined">mail</span> Message Center</router-link>
@@ -37,12 +41,16 @@
                 <span class="material-icons-outlined mobilMenuClose"> close </span>
             </div>
             <div class="headerSearch">
-                <span class="iconofsearch"> <span class="material-icons-outlined searchIcon" @click="targetSearch"> search </span></span>
+                <span class="iconofsearch">
+                    <span class="material-icons-outlined searchIcon" @click="targetSearch"> search </span></span
+                >
                 <input id="headerSearchInput" type="text" placeholder="Search company, request or product..." />
             </div>
             <div class="headerAccount">
                 <div class="headerLogin">
-                    <router-link to="/login"><span class="material-icons-outlined verifiedUser">verified_user</span> Log in</router-link>
+                    <router-link to="/login"
+                        ><span class="material-icons-outlined verifiedUser">verified_user</span> Log in</router-link
+                    >
                 </div>
                 <div class="headerSignUp">
                     <div class="headerSignUpButton">

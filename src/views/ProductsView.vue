@@ -12,16 +12,22 @@
                 <div class="productList-products">
                     <div class="productListTitle">
                         <h1>Products List</h1>
-                        <div @click="filterActive(1)"><span class="material-icons-outlined"> filter_alt </span>Advanced Filter</div>
+                        <div @click="filterActive(1)">
+                            <span class="material-icons-outlined"> filter_alt </span>Advanced Filter
+                        </div>
                     </div>
                     <div class="product">
                         <div class="card mb-3" style="max-width: 100%">
                             <div class="row g-0">
                                 <div class="col-md-12">
                                     <div class="card-body">
-                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                                        <h5 class="card-title">
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
+                                        </h5>
                                         <p class="card-text product-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
                                         </p>
                                         <!-- Slide -->
                                         <div class="product-slider">
@@ -29,7 +35,7 @@
                                                 <carousel :settings="settings" :breakpoints="breakpoints">
                                                     <slide v-for="slide in 10" :key="slide">
                                                         <div class="carousel__item">
-                                                            <img class="w-100" :src="require(`/src/assets/img/Image1.png`)" />
+                                                            <img class="w-100" :src="require(`@/assets/img/Image1.png`)" />
                                                             <small :title="slide">{{ slide }} slide</small>
                                                         </div>
                                                     </slide>
@@ -58,9 +64,13 @@
                             <div class="row g-0">
                                 <div class="col-md-12">
                                     <div class="card-body">
-                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                                        <h5 class="card-title">
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
+                                        </h5>
                                         <p class="card-text product-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
                                         </p>
                                         <!-- Slide -->
                                         <div class="product-slider">
@@ -68,7 +78,7 @@
                                                 <carousel :settings="settings" :breakpoints="breakpoints">
                                                     <slide v-for="slide in 10" :key="slide">
                                                         <div class="carousel__item">
-                                                            <img class="w-100" :src="require(`/src/assets/img/Image1.png`)" />
+                                                            <img class="w-100" :src="require(`@/assets/img/Image1.png`)" />
                                                             <small :title="slide">{{ slide }} slide</small>
                                                         </div>
                                                     </slide>
@@ -97,9 +107,13 @@
                             <div class="row g-0">
                                 <div class="col-md-12">
                                     <div class="card-body">
-                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                                        <h5 class="card-title">
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
+                                        </h5>
                                         <p class="card-text product-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
                                         </p>
                                         <!-- Slide -->
                                         <div class="product-slider">
@@ -107,7 +121,10 @@
                                                 <carousel :settings="settings" :breakpoints="breakpoints">
                                                     <slide v-for="slide in 10" :key="slide">
                                                         <div class="carousel__item">
-                                                            <img class="w-100" :src="require(`/src/assets/img/Image1.png`)" />
+                                                            <img
+                                                                class="w-100"
+                                                                :src="require(`/src/assets/img/Image1.png`)"
+                                                            />
                                                             <small :title="slide">{{ slide }} slide</small>
                                                         </div>
                                                     </slide>
@@ -136,9 +153,13 @@
                             <div class="row g-0">
                                 <div class="col-md-12">
                                     <div class="card-body">
-                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                                        <h5 class="card-title">
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
+                                        </h5>
                                         <p class="card-text product-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
                                         </p>
                                         <!-- Slide -->
                                         <div class="product-slider">
@@ -146,7 +167,10 @@
                                                 <carousel :settings="settings" :breakpoints="breakpoints">
                                                     <slide v-for="slide in 10" :key="slide">
                                                         <div class="carousel__item">
-                                                            <img class="w-100" :src="require(`/src/assets/img/Image1.png`)" />
+                                                            <img
+                                                                class="w-100"
+                                                                :src="require(`/src/assets/img/Image1.png`)"
+                                                            />
                                                             <small :title="slide">{{ slide }} slide</small>
                                                         </div>
                                                     </slide>
@@ -175,9 +199,13 @@
                             <div class="row g-0">
                                 <div class="col-md-12">
                                     <div class="card-body">
-                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                                        <h5 class="card-title">
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
+                                        </h5>
                                         <p class="card-text product-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
                                         </p>
                                         <!-- Slide -->
                                         <div class="product-slider">
@@ -185,7 +213,10 @@
                                                 <carousel :settings="settings" :breakpoints="breakpoints">
                                                     <slide v-for="slide in 10" :key="slide">
                                                         <div class="carousel__item">
-                                                            <img class="w-100" :src="require(`/src/assets/img/Image1.png`)" />
+                                                            <img
+                                                                class="w-100"
+                                                                :src="require(`/src/assets/img/Image1.png`)"
+                                                            />
                                                             <small :title="slide">{{ slide }} slide</small>
                                                         </div>
                                                     </slide>
@@ -214,9 +245,13 @@
                             <div class="row g-0">
                                 <div class="col-md-12">
                                     <div class="card-body">
-                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                                        <h5 class="card-title">
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
+                                        </h5>
                                         <p class="card-text product-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
                                         </p>
                                         <!-- Slide -->
                                         <div class="product-slider">
@@ -224,7 +259,10 @@
                                                 <carousel :settings="settings" :breakpoints="breakpoints">
                                                     <slide v-for="slide in 10" :key="slide">
                                                         <div class="carousel__item">
-                                                            <img class="w-100" :src="require(`/src/assets/img/Image1.png`)" />
+                                                            <img
+                                                                class="w-100"
+                                                                :src="require(`/src/assets/img/Image1.png`)"
+                                                            />
                                                             <small :title="slide">{{ slide }} slide</small>
                                                         </div>
                                                     </slide>
@@ -253,9 +291,13 @@
                             <div class="row g-0">
                                 <div class="col-md-12">
                                     <div class="card-body">
-                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
+                                        <h5 class="card-title">
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
+                                        </h5>
                                         <p class="card-text product-text">
-                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
                                         </p>
                                         <!-- Slide -->
                                         <div class="product-slider">
@@ -263,7 +305,10 @@
                                                 <carousel :settings="settings" :breakpoints="breakpoints">
                                                     <slide v-for="slide in 10" :key="slide">
                                                         <div class="carousel__item">
-                                                            <img class="w-100" :src="require(`/src/assets/img/Image1.png`)" />
+                                                            <img
+                                                                class="w-100"
+                                                                :src="require(`/src/assets/img/Image1.png`)"
+                                                            />
                                                             <small :title="slide">{{ slide }} slide</small>
                                                         </div>
                                                     </slide>
@@ -340,7 +385,9 @@
 
                         <div class="filterButton">
                             <div class="resetButton">
-                                <button type="reset"><span class="material-icons-outlined"> restart_alt </span>Reset Filters</button>
+                                <button type="reset">
+                                    <span class="material-icons-outlined"> restart_alt </span>Reset Filters
+                                </button>
                             </div>
                             <div class="applyButton">
                                 <button type="submit">Apply</button>
@@ -348,7 +395,9 @@
                         </div>
                         <hr />
                     </form>
-                    <div class="advertisement"><span class="material-icons-outlined"> ads_click </span><span>advertisement</span></div>
+                    <div class="advertisement">
+                        <span class="material-icons-outlined"> ads_click </span><span>advertisement</span>
+                    </div>
                 </div>
             </div>
         </div>
@@ -356,7 +405,6 @@
 </template>
 <script>
 import $ from "jquery";
-// import axios from "axios";
 import { defineComponent } from "vue";
 import { Carousel, Navigation, Slide } from "vue3-carousel";
 import "vue3-carousel/dist/carousel.css";

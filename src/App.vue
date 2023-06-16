@@ -59,7 +59,32 @@ import Footer from "@/components/Footer.vue";
     font-family: Roboto;
     font-style: normal;
     font-weight: 400;
-    src: local("Roboto"), local("Roboto"), url(https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700display=swap) format("css");
+    src: local("Roboto"), local("Roboto"),
+        url(https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700display=swap) format("css");
     font-display: swap;
+}
+
+/* fallback */
+@font-face {
+    font-family: "Material Icons Outlined";
+    font-style: normal;
+    font-weight: 400;
+    src: url(@/assets/css/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUce.woff2) format("woff2");
+}
+
+.material-icons-outlined {
+    font-family: "Material Icons Outlined";
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: "liga";
+    -webkit-font-smoothing: antialiased;
 }
 </style>

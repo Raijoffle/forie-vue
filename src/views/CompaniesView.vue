@@ -12,7 +12,9 @@
                 <div class="companyList-companies">
                     <div class="companyListTitle">
                         <h1>Companies List</h1>
-                        <div @click="filterActive(1)"><span class="material-icons-outlined"> filter_alt </span>Advanced Filter</div>
+                        <div @click="filterActive(1)">
+                            <span class="material-icons-outlined"> filter_alt </span>Advanced Filter
+                        </div>
                     </div>
                     <div class="company">
                         <div class="card mb-3" style="max-width: 100%">
@@ -20,15 +22,27 @@
                                 <div class="col-md-1">
                                     <div class="company-logo">
                                         <div class="company-logoImage">
-                                            <img src="@/assets/img/LOGO.webp" alt="raijoffle random logo" class="img-fluid rounded-start" />
+                                            <img
+                                                src="@/assets/img/LOGO.webp"
+                                                alt="raijoffle random logo"
+                                                class="img-fluid rounded-start"
+                                            />
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-11">
                                     <div class="card-body">
-                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
-                                        <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
-                                        <a href="#" class="card-text"><country-flag country="gb" size="normal" /> Read Profile Page</a>
+                                        <h5 class="card-title">
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
+                                        </h5>
+                                        <p class="card-text">
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
+                                        </p>
+                                        <a href="#" class="card-text"
+                                            ><country-flag country="gb" size="normal" /> Read Profile Page</a
+                                        >
                                         <div class="companyTags">
                                             <span class="companyTag1">technical clothing</span>
                                             <span class="companyTag2">school uniform</span>
@@ -45,15 +59,27 @@
                                 <div class="col-md-1">
                                     <div class="company-logo">
                                         <div class="company-logoImage">
-                                            <img src="@/assets/img/LOGO.webp" alt="raijoffle random logo" class="img-fluid rounded-start" />
+                                            <img
+                                                src="@/assets/img/LOGO.webp"
+                                                alt="raijoffle random logo"
+                                                class="img-fluid rounded-start"
+                                            />
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-11">
                                     <div class="card-body">
-                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
-                                        <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
-                                        <a href="#" class="card-text"><country-flag country="tr" size="normal" /> Read Profile Page</a>
+                                        <h5 class="card-title">
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
+                                        </h5>
+                                        <p class="card-text">
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
+                                        </p>
+                                        <a href="#" class="card-text"
+                                            ><country-flag country="tr" size="normal" /> Read Profile Page</a
+                                        >
                                         <div class="companyTags">
                                             <span class="companyTag1">technical clothing</span>
                                             <span class="companyTag2">school uniform</span>
@@ -70,15 +96,27 @@
                                 <div class="col-md-1">
                                     <div class="company-logo">
                                         <div class="company-logoImage">
-                                            <img src="@/assets/img/LOGO.webp" alt="raijoffle random logo" class="img-fluid rounded-start" />
+                                            <img
+                                                src="@/assets/img/LOGO.webp"
+                                                alt="raijoffle random logo"
+                                                class="img-fluid rounded-start"
+                                            />
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-11">
                                     <div class="card-body">
-                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
-                                        <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
-                                        <a href="#" class="card-text"><country-flag country="tr" size="normal" /> Read Profile Page </a>
+                                        <h5 class="card-title">
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
+                                        </h5>
+                                        <p class="card-text">
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
+                                        </p>
+                                        <a href="#" class="card-text"
+                                            ><country-flag country="tr" size="normal" /> Read Profile Page
+                                        </a>
                                         <div class="companyTags">
                                             <span class="companyTag1">technical clothing</span>
                                             <span class="companyTag2">school uniform</span>
@@ -95,15 +133,27 @@
                                 <div class="col-md-1">
                                     <div class="company-logo">
                                         <div class="company-logoImage">
-                                            <img src="@/assets/img/LOGO.webp" alt="raijoffle random logo" class="img-fluid rounded-start" />
+                                            <img
+                                                src="@/assets/img/LOGO.webp"
+                                                alt="raijoffle random logo"
+                                                class="img-fluid rounded-start"
+                                            />
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-11">
                                     <div class="card-body">
-                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
-                                        <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
-                                        <a href="#" class="card-text"><country-flag country="tr" size="normal" /> Read Profile Page</a>
+                                        <h5 class="card-title">
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
+                                        </h5>
+                                        <p class="card-text">
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
+                                        </p>
+                                        <a href="#" class="card-text"
+                                            ><country-flag country="tr" size="normal" /> Read Profile Page</a
+                                        >
                                         <div class="companyTags">
                                             <span class="companyTag1">technical clothing</span>
                                             <span class="companyTag2">school uniform</span>
@@ -120,15 +170,27 @@
                                 <div class="col-md-1">
                                     <div class="company-logo">
                                         <div class="company-logoImage">
-                                            <img src="@/assets/img/LOGO.webp" alt="raijoffle random logo" class="img-fluid rounded-start" />
+                                            <img
+                                                src="@/assets/img/LOGO.webp"
+                                                alt="raijoffle random logo"
+                                                class="img-fluid rounded-start"
+                                            />
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-11">
                                     <div class="card-body">
-                                        <h5 class="card-title">Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited Sirketi</h5>
-                                        <p class="card-text">Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that quality is an important criteria t......</p>
-                                        <a href="#" class="card-text"><country-flag country="rus" size="normal" /> Read Profile Page </a>
+                                        <h5 class="card-title">
+                                            Linden Tekstil Mermer Gida Nakliye Ithalat Ihracat Sanayi Ve Ticaret Limited
+                                            Sirketi
+                                        </h5>
+                                        <p class="card-text">
+                                            Based on quality, our principle is *CUSTOMER SATISFACTION” As we know that
+                                            quality is an important criteria t......
+                                        </p>
+                                        <a href="#" class="card-text"
+                                            ><country-flag country="rus" size="normal" /> Read Profile Page
+                                        </a>
                                         <div class="companyTags">
                                             <span class="companyTag1">technical clothing</span>
                                             <span class="companyTag2">school uniform</span>
@@ -192,7 +254,9 @@
 
                         <div class="filterButton">
                             <div class="resetButton">
-                                <button type="reset"><span class="material-icons-outlined"> restart_alt </span>Reset Filters</button>
+                                <button type="reset">
+                                    <span class="material-icons-outlined"> restart_alt </span>Reset Filters
+                                </button>
                             </div>
                             <div class="applyButton">
                                 <button type="submit">Apply</button>
@@ -200,7 +264,9 @@
                         </div>
                         <hr />
                     </form>
-                    <div class="advertisement"><span class="material-icons-outlined"> ads_click </span><span>advertisement</span></div>
+                    <div class="advertisement">
+                        <span class="material-icons-outlined"> ads_click </span><span>advertisement</span>
+                    </div>
                 </div>
             </div>
         </div>
