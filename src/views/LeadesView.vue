@@ -10,7 +10,9 @@
                 <div class="leadesList-companies">
                     <div class="leadesListTitle">
                         <h1>Leades List</h1>
-                        <div @click="filterActive(1)"><span class="material-icons-outlined"> filter_alt </span>Advanced Filter</div>
+                        <div @click="filterActive(1)">
+                            <span class="material-icons-outlined"> filter_alt </span>Advanced Filter
+                        </div>
                     </div>
                     <div class="leades">
                         <div class="card mb-3" style="max-width: 100%">
@@ -19,10 +21,12 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /> </span>Heavy duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /> </span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
-                                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
+                                            Actually i am looking for construction equipment manufacturer. pay loader, motor
+                                            grader, beam lifter, forklift, excavator etc.
                                         </p>
                                         <div class="leadesStatus">
                                             <div class="leadesRequest">
@@ -65,10 +69,12 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
-                                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
+                                            Actually i am looking for construction equipment manufacturer. pay loader, motor
+                                            grader, beam lifter, forklift, excavator etc.
                                         </p>
                                         <div class="leadesStatus">
                                             <div class="leadesRequest">
@@ -111,10 +117,12 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
-                                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
+                                            Actually i am looking for construction equipment manufacturer. pay loader, motor
+                                            grader, beam lifter, forklift, excavator etc.
                                         </p>
                                         <div class="leadesStatus">
                                             <div class="leadesRequest">
@@ -157,10 +165,12 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
-                                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
+                                            Actually i am looking for construction equipment manufacturer. pay loader, motor
+                                            grader, beam lifter, forklift, excavator etc.
                                         </p>
                                         <div class="leadesStatus">
                                             <div class="leadesRequest">
@@ -203,10 +213,12 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
-                                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
+                                            Actually i am looking for construction equipment manufacturer. pay loader, motor
+                                            grader, beam lifter, forklift, excavator etc.
                                         </p>
                                         <div class="leadesStatus">
                                             <div class="leadesRequest">
@@ -249,10 +261,12 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
-                                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
+                                            Actually i am looking for construction equipment manufacturer. pay loader, motor
+                                            grader, beam lifter, forklift, excavator etc.
                                         </p>
                                         <div class="leadesStatus">
                                             <div class="leadesRequest">
@@ -295,10 +309,12 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
-                                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
+                                            Actually i am looking for construction equipment manufacturer. pay loader, motor
+                                            grader, beam lifter, forklift, excavator etc.
                                         </p>
                                         <div class="leadesStatus">
                                             <div class="leadesRequest">
@@ -341,10 +357,12 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
-                                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
+                                            Actually i am looking for construction equipment manufacturer. pay loader, motor
+                                            grader, beam lifter, forklift, excavator etc.
                                         </p>
                                         <div class="leadesStatus">
                                             <div class="leadesRequest">
@@ -387,10 +405,12 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
-                                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
+                                            Actually i am looking for construction equipment manufacturer. pay loader, motor
+                                            grader, beam lifter, forklift, excavator etc.
                                         </p>
                                         <div class="leadesStatus">
                                             <div class="leadesRequest">
@@ -433,10 +453,12 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
-                                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
+                                            Actually i am looking for construction equipment manufacturer. pay loader, motor
+                                            grader, beam lifter, forklift, excavator etc.
                                         </p>
                                         <div class="leadesStatus">
                                             <div class="leadesRequest">
@@ -479,10 +501,12 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
-                                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
+                                            Actually i am looking for construction equipment manufacturer. pay loader, motor
+                                            grader, beam lifter, forklift, excavator etc.
                                         </p>
                                         <div class="leadesStatus">
                                             <div class="leadesRequest">
@@ -525,10 +549,12 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
-                                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
+                                            Actually i am looking for construction equipment manufacturer. pay loader, motor
+                                            grader, beam lifter, forklift, excavator etc.
                                         </p>
                                         <div class="leadesStatus">
                                             <div class="leadesRequest">
@@ -571,10 +597,12 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
-                                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
+                                            Actually i am looking for construction equipment manufacturer. pay loader, motor
+                                            grader, beam lifter, forklift, excavator etc.
                                         </p>
                                         <div class="leadesStatus">
                                             <div class="leadesRequest">
@@ -617,10 +645,12 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
-                                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
+                                            Actually i am looking for construction equipment manufacturer. pay loader, motor
+                                            grader, beam lifter, forklift, excavator etc.
                                         </p>
                                         <div class="leadesStatus">
                                             <div class="leadesRequest">
@@ -663,10 +693,12 @@
                                     <div class="card-body">
                                         <span class="mobilLeadesDate">27.01.2022</span>
                                         <h5 class="card-title">
-                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span>Heavy duty vehicles to import Bangladesh
+                                            <span class="leadesTitleFlag"><country-flag country="bd" size="normal" /></span
+                                            >Heavy duty vehicles to import Bangladesh
                                         </h5>
                                         <p class="card-text">
-                                            Actually i am looking for construction equipment manufacturer. pay loader, motor grader, beam lifter, forklift, excavator etc.
+                                            Actually i am looking for construction equipment manufacturer. pay loader, motor
+                                            grader, beam lifter, forklift, excavator etc.
                                         </p>
                                         <div class="leadesStatus">
                                             <div class="leadesRequest">
@@ -758,7 +790,9 @@
                         <hr />
                         <div class="filterButton">
                             <div class="resetButton">
-                                <button type="reset"><span class="material-icons-outlined"> restart_alt </span>Reset Filters</button>
+                                <button type="reset">
+                                    <span class="material-icons-outlined"> restart_alt </span>Reset Filters
+                                </button>
                             </div>
                             <div class="applyButton">
                                 <button type="submit">Apply</button>
@@ -766,7 +800,9 @@
                         </div>
                         <hr />
                     </form>
-                    <div class="advertisement"><span class="material-icons-outlined"> ads_click </span><span>advertisement</span></div>
+                    <div class="advertisement">
+                        <span class="material-icons-outlined"> ads_click </span><span>advertisement</span>
+                    </div>
                 </div>
             </div>
         </div>
