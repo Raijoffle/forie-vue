@@ -1,8 +1,8 @@
 const { defineConfig } = require("@vue/cli-service");
 module.exports = defineConfig({
-  transpileDependencies: true,
+    transpileDependencies: true,
 
-  css: {
-    extract: false
-  }
+    css: {
+        extract: false,
+    },
 });
